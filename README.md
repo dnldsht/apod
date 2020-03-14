@@ -10,10 +10,13 @@ Each day a different image or photograph of our fascinating universe is featured
 </div>
 
 
+
+## Description
 This app allows you to look through pictures that have been posted by nasa on [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html) and use the as wallpaper that's it. Hope you like it 💙
 
 This project and me are not related with NASA, this is not an official client by any means.
 
+## License
 ```
 MIT License
 
