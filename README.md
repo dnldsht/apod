@@ -1,8 +1,7 @@
-# Astronomy Picture of the Day by NASA
+# Astronomy Picture of the Day
 
 Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. That you can set as wallpaper.
 
-## Screenshots
 <div style="display:flex;" >
     <img src="screenshots/1.png" width="19%" >
     <img style="margin-left:10px;" src="screenshots/2.png" width="19%" >
@@ -10,7 +9,6 @@ Each day a different image or photograph of our fascinating universe is featured
     <img style="margin-left:10px;" src="screenshots/4.png" width="19%" >
 </div>
 
-## Description
 
 This app allows you to look through pictures that have been posted by nasa on [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html) and use the as wallpaper that's it. Hope you like it 💙
 
