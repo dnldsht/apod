@@ -1,0 +1,7 @@
+/*
+  - Get an Api Key at https://api.nasa.gov/
+  - Insert it below
+  - remove the .sample from the file name
+*/
+
+String API_KEY = "api-key";
